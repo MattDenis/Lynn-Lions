@@ -171,7 +171,9 @@ h3.LLtext{
 
 .Game {
   position: relative;
-  height: 640px;
+  height: 600px;
+  width: 400px;
+  margin-left: 20px;
   overflow: hidden;
   border-radius: 10px;
   outline: 2px solid rgb(0, 38, 255);
